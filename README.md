@@ -1,1 +1,1 @@
-# -transaes-bancrias-
+transaes-bancarias
